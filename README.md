@@ -12,3 +12,5 @@ $ export GOOGLE_APPLICATION_CREDENTIALS=`pwd`/credentials.json
 # need to edit FILES_STORE and GCS_PROJECT_ID in settings.py
 $ scrapy crawl myspider -o result.json
 ```
+
+![](./gcs_ss.png)
